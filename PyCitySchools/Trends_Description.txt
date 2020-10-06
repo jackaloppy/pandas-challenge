@@ -1,0 +1,7 @@
+1. Cabrera High School is one of the top performing schools in regards to the math and reading passing percentage, while Rodriguez High School is the worst.
+
+2. Schools with less budget per student tend to have higher passing percentage on math and reading.
+
+3. Large school (size over 2000) tends to have lower passing rate on math and reading.
+
+4. Charter school overall perform better than district school.
